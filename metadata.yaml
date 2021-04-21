@@ -1,0 +1,31 @@
+_repo: Histoire-du-Canada-depuis-sa-d-couverte-jusqu---nos-jours.-Tome-IV_27134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garneau, F.-X. (François-Xavier)
+    aliases:
+    - Garneau, F.-X. (Francois-Xavier)
+    - Garneau, François-Xavier
+    birthdate: 1809
+    deathdate: 1866
+    gutenberg_agent_id: '32482'
+    url: http://www.gutenberg.org/2009/agents/32482
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27134'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+title: Histoire du Canada depuis sa découverte jusqu'à nos jours. Tome IV
+url: http://www.gutenberg.org/ebooks/27134
