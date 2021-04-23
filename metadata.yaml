@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32482'
     url: http://www.gutenberg.org/2009/agents/32482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27134#Histoire-du-Canada-depuis-sa-d-couverte-jusqu---nos-jours.-Tome-IV
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2008-11-02'
 gutenberg_type: Text
